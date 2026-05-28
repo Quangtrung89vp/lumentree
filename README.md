@@ -8,7 +8,7 @@
 
 <a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=ngoviet&repository=lumentreeHA&category=integration" class="my badge" target="_blank"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Open this repository in HACS" width="200" height="36"></a>
 
-> **Tôi là người Việt, tự mình duy trì dự án này.** Nếu integration này giúp bạn theo dõi và tiết kiệm tiền điện, hãy [mua tôi một cốc cà phê](https://buymeacoffee.com/ngoviet) ☕ — mỗi cốc = 50,000 VND = động lực để tôi tiếp tục phát triển.
+>Chào mừng bạn đến với Bộ tích hợp dành cho Lumentree Của Quang Trung liên Hệ Zalo (0973941273)
 
 <p align="center">
   <a href="https://buymeacoffee.com/ngoviet">
