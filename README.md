@@ -10,12 +10,6 @@
 
 >Chào mừng bạn đến với Bộ tích hợp dành cho Lumentree Của Quang Trung liên Hệ Zalo (0973941273)
 
-<p align="center">
-  <a href="https://buymeacoffee.com/ngoviet">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=%E2%98%95&slug=ngoviet&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
 ---
 
 High-performance **Home Assistant custom integration** for **Lumentree hybrid solar inverters** (SUNT series). Real-time monitoring via **MQTT (Modbus)**, historical energy statistics via **HTTP API**, and comprehensive battery management. Track solar PV generation, grid import/export, battery SOC, and calculate electricity cost savings in VND.
@@ -163,26 +157,3 @@ logger:
 
 ---
 
-## Support This Project
-
-Nếu integration này giúp bạn tiết kiệm tiền điện, hãy ủng hộ tôi:
-
-### Quốc tế
-- [☕ Buy Me A Coffee](https://buymeacoffee.com/ngoviet) — Credit card, Apple Pay, PayPal
-- [💖 GitHub Sponsors](https://github.com/sponsors/ngoviet) — Zero-fee recurring sponsorship
-
-### Việt Nam
-- **VietQR** — Quét mã chuyển khoản ngân hàng (miễn phí)
-- **Momo** — Chuyển tiền qua ví Momo
-
-*(QR codes coming soon — đang chờ thông tin tài khoản)*
-
----
-
-## Changelog
-
-See [CHANGELOG.md](CHANGELOG.md) or [GitHub Releases](https://github.com/ngoviet/lumentreeHA/releases) for detailed version history.
-
----
-
-**Made with ❤️ by a Vietnamese developer — [Buy me a coffee](https://buymeacoffee.com/ngoviet) if this helps you.**
